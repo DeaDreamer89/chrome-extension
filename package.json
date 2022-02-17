@@ -15,5 +15,9 @@
   },
   "dependencies": {
     "sass-rem": "^3.0.0"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
   }
 }

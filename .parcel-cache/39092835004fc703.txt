@@ -1,4 +1,4 @@
-4764
+4765
 92C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\lodash.uniq\README.md132642065889240000 0
 79C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\entities132890772694080375 1
 90C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\yaml\browser\seq.js132860258372840000 0
@@ -39,12 +39,12 @@
 91C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\postcss-value-parser132890772704883228 1
 72C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\.gitattributes132890771617275590 0
 106C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\caniuse-lite\data\features\webxr.js132890772575110000 0
-62C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\dist132895140560970873 1
+62C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\dist132895787273131160 1
 122C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c132889028788120000 0
 79C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\svgo\lib132890773674582151 1
 126C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c132889028788120000 0
 106C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\postcss-ordered-values\package.json132889028811740000 0
-61C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\src132890774472804943 1
+61C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\src132895788578760261 1
 89C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\.package-lock.json132893214557798630 0
 127C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts.map132642065140040000 0
 105C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\caniuse-lite\data\features\cors.js132890772575110000 0
@@ -52,9 +52,16 @@
 110C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\postcss-minify-font-values\src\index.js132889028806070000 0
 125C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\postcss-merge-rules\node_modules\.bin\browserslist.cmd132890772782933761 0
 70C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules132893214556915772 1
-102C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\caniuse-lite\data\regions\TM.js132890772575110000 0
-116C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\caniuse-lite\data\features\custom-elements.js132890772575110000 0
-69C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\src\main.js132895140579168794 0
+77C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\dotenv132890772693777796 1
+113C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\@swc\helpers\lib\_sliced_to_array_loose.js132860258380440000 0
+84C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\escalade\dist132890772712839055 1
+121C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\@parcel\core\test\fixtures\invalid-source-not-file132890772774878706 1
+96C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\postcss\node_modules\.bin132890772782695679 1
+95C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\lmdb\src\compression.cpp132889028788120000 0
+103C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\yaml\dist\resolveSeq-d03cb037.js132860258372840000 0
+99C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\.bin\node-gyp-build-test.cmd132890773675172391 0
+70C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\src\icon.png132895788444358868 0
+94C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\domhandler\lib\index.js132860258392380000 0
 95C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\utility-types\SUPPORT.md132860258335730000 0
 92C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\domutils\lib\feeds.js132860258391640000 0
 108C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\@swc\helpers\lib\_get_prototype_of.js132860258380440000 0
@@ -83,7 +90,7 @@
 101C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\type-fest\source\value-of.d.ts132860258373280000 0
 92C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\.bin\browserslist.ps1132890773675167423 0
 111C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\postcss-normalize-repeat-style\README.md132889028808710000 0
-70C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\package.json132893214557699424 0
+70C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\package.json132895791113349997 0
 114C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\@parcel\source-map\src\wasm-bindings-web.js132883725448640000 0
 101C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\lmdb\dependencies\lmdb-data-v1132890772690444670 1
 85C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\nanoid\LICENSE132890773671749806 0
@@ -92,6 +99,9 @@
 102C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\caniuse-lite\data\regions\MU.js132890772575110000 0
 72C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\src\index.html132894958266792686 0
 116C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\postcss-normalize-repeat-style\src\lib\map.js132889028808710000 0
+102C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\caniuse-lite\data\regions\TM.js132890772575110000 0
+116C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\caniuse-lite\data\features\custom-elements.js132890772575110000 0
+69C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\src\main.js132895782629129623 0
 105C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\postcss-colormin\node_modules\.bin132890772782844464 1
 117C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\lmdb\prebuilds\linux-x64\node.abi83.glibc.node132889028788120000 0
 90C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\postcss-merge-rules132890772782854371 1
@@ -99,7 +109,7 @@
 99C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\abortcontroller-polyfill\src132890772707809626 1
 79C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\error-ex132890772694308510 1
 77C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\braces132890774761599219 1
-73C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\src\styles.scss132893225581666870 0
+73C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\src\styles.scss132895787271653454 0
 94C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\source-map\package.json132642065087570000 0
 107C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\postcss-unique-selectors\LICENSE-MIT132889028811540000 0
 108C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\abortcontroller-polyfill\src\utils.js132860258299950000 0
@@ -292,8 +302,6 @@
 95C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\postcss-normalize-string132890772704119404 1
 122C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\@parcel\source-map\parcel_sourcemap_wasm\src\lib.rs132883725448640000 0
 81C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\domhandler132890772693678601 1
-77C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\dotenv132890772693777796 1
-113C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\@swc\helpers\lib\_sliced_to_array_loose.js132860258380440000 0
 94C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\sass\types\options.d.ts132890774763007867 0
 79C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\mdn-data132890772696054464 1
 109C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\@parcel\transformer-html\src\inline.js132890772549540000 0
@@ -615,9 +623,9 @@
 106C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\postcss-normalize-unicode\README.md132889028809040000 0
 81C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\cssesc\man132890773672533674 1
 97C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\svgo\plugins\cleanupIDs.js132890773673054473 0
-89C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\source-map-support132890772706212511 1
-104C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\css-tree\lib\syntax\node\Block.js132642065164980000 0
 98C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\node-addon-api\package.json132860258367480000 0
+104C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\css-tree\lib\syntax\node\Block.js132642065164980000 0
+89C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\source-map-support132890772706212511 1
 98C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\util-deprecate\package.json132642065185450000 0
 92C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\node-gyp-build\bin.js132890773668034556 0
 94C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\utility-types\README.md132860258335730000 0
@@ -808,11 +816,6 @@
 103C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\yaml\dist\PlainValue-ec8e588e.js132860258372840000 0
 95C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\@parcel\resolver-default132890772700002593 1
 92C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\@trysound\sax\LICENSE132860258371290000 0
-84C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\escalade\dist132890772712839055 1
-121C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\@parcel\core\test\fixtures\invalid-source-not-file132890772774878706 1
-96C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\postcss\node_modules\.bin132890772782695679 1
-95C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\lmdb\src\compression.cpp132889028788120000 0
-103C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\yaml\dist\resolveSeq-d03cb037.js132860258372840000 0
 99C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\yaml\dist\Schema-88e323a7.js132860258372840000 0
 112C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\caniuse-lite\data\features\videotracks.js132890772575110000 0
 101C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\yaml\dist\warnings-1000a372.js132860258372840000 0
@@ -835,8 +838,8 @@
 101C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\@parcel\core\lib\AssetGraph.js132890772513320000 0
 95C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\nth-check\lib\compile.js132860258393030000 0
 96C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\yaml\browser\parse-cst.js132860258372840000 0
-94C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\stylehacks\src\index.js132889028812260000 0
 93C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\yaml\browser\scalar.js132860258372840000 0
+94C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\stylehacks\src\index.js132889028812260000 0
 93C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\yaml\browser\schema.js132860258372840000 0
 95C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\picocolors\picocolors.js132860258342480000 0
 96C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\csso\lib\clean\Comment.js132642065164910000 0
@@ -1416,7 +1419,7 @@
 117C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\postcss-merge-longhand\src\lib\isCustomProp.js132889028803960000 0
 95C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\stylehacks\src\exists.js132889028812260000 0
 98C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\sass\types\value\index.d.ts132890774762660735 0
-73C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\dist\index.html132895139206954915 0
+73C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\dist\index.html132895786276499271 0
 96C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\stylehacks\src\isMixin.js132889028812260000 0
 92C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\entities\lib\index.js132860258397840000 0
 93C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\stylehacks\src\plugins132890772770920627 1
@@ -2931,7 +2934,6 @@
 102C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\domutils\lib\traversal.d.ts.map132860258391640000 0
 85C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\domhandler\lib132890772711465148 1
 91C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\domhandler\readme.md132860258392380000 0
-94C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\domhandler\lib\index.js132860258392380000 0
 95C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\domhandler\lib\node.d.ts132860258392380000 0
 99C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\domhandler\lib\node.d.ts.map132860258392380000 0
 115C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\caniuse-lite\data\features\battery-status.js132890772575110000 0
@@ -3570,7 +3572,7 @@
 94C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\@parcel\watcher\LICENSE132860258340450000 0
 111C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\caniuse-lite\data\features\array-find.js132890772575110000 0
 111C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\caniuse-lite\data\features\array-flat.js132890772575110000 0
-85C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\dist\index.4a508c1d.css.map132895139206954915 0
+85C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\dist\index.4a508c1d.css.map132895787273111329 0
 106C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\caniuse-lite\data\features\asmjs.js132890772575110000 0
 116C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\caniuse-lite\data\features\async-clipboard.js132890772575110000 0
 108C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\@parcel\runtime-js\src\helpers\worker132890772775989751 1
@@ -4746,7 +4748,6 @@
 90C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\.bin\node-gyp-build132890773675177347 0
 103C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\.bin\node-gyp-build-optional.cmd132890773675172391 0
 95C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\.bin\node-gyp-build-test132890773675172391 0
-99C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\.bin\node-gyp-build-test.cmd132890773675172391 0
 99C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\.bin\node-gyp-build-test.ps1132890773675172391 0
 94C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\.bin\node-gyp-build.cmd132890773675177347 0
 94C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\.bin\node-gyp-build.ps1132890773675172391 0
@@ -4759,7 +4760,7 @@
 86C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\.bin\semver.cmd132890773675192226 0
 84C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\.bin\svgo.cmd132890773675177347 0
 82C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\node_modules\.bin\terser132890773675187279 0
-81C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\dist\index.4a508c1d.css132895139206954915 0
-80C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\dist\index.4d6bcbeb.js132895140560926189 0
-84C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\dist\index.4d6bcbeb.js.map132895140560946075 0
+81C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\dist\index.4a508c1d.css132895787273096463 0
+80C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\dist\index.4d6bcbeb.js132895786276499271 0
+84C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\dist\index.4d6bcbeb.js.map132895786276514163 0
 80C:\Users\zajar\OneDrive\Documents\GitHub\chrome-extension\dist\index.de158e3a.js132893219297573122 0
